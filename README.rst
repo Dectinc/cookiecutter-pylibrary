@@ -2,15 +2,9 @@
 cookiecutter-pylibrary
 ======================
 
-Cookiecutter_ template for a Python python library. |travis| |appveyor|
+Cookiecutter_ template for a Python library.
 
-.. |travis| image:: http://img.shields.io/travis/ionelmc/cookiecutter-pylibrary/master.svg?style=flat&label=Travis
-    :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/ionelmc/cookiecutter-pylibrary
-
-.. |appveyor| image:: https://img.shields.io/appveyor/ci/ionelmc/cookiecutter-pylibrary/master.svg?style=flat&label=AppVeyor
-    :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/ionelmc/cookiecutter-pylibrary
+This is an mirror of the [Github Repo](https://github.com/Dectinc/cookiecutter-pylibrary)
 
 *Notes*:
 
@@ -73,7 +67,7 @@ This template is more involved than the regular `cookiecutter-pypackage
 
 First generate your project::
 
-  cookiecutter gh:ionelmc/cookiecutter-pylibrary
+  cookiecutter git@code.sohuno.com:Dectinc/cookiecutter-python-boilerplate.git
 
 You will be asked for these fields:
 
